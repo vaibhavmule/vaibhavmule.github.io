@@ -32,3 +32,7 @@ footer {
     background:#F9FBFB;
     font-size: 3em;
 }
+
+img {
+    max-width: 25em;
+}
