@@ -1,4 +1,4 @@
 vaibhavmule.github.io
 =====================
 
-The personal website for Github.
+Personal Website Hosted On Github Pages.
