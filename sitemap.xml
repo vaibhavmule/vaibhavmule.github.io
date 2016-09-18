@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://vaibhavmule.com/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/blogs/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/projects/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/talks/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/contact/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/sitemap/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/cheatsheet/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/react-redux-helloworld/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/TheDailyReader/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/talks/bangpyper-jan-talks/</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/cheatsheet/vim</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/cheatsheet/index.html</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/cheatsheet/vim.html</loc>
+  <lastmod>2016-09-18T20:36:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
