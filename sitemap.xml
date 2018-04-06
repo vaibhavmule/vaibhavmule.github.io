@@ -4,37 +4,35 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 <url>
   <loc>http://vaibhavmule.com/</loc>
-  <lastmod>2017-12-11T09:22:55+00:00</lastmod>
+  <lastmod>2018-01-02T09:54:13+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://vaibhavmule.com/blogs/</loc>
-  <lastmod>2017-12-11T09:22:55+00:00</lastmod>
+  <lastmod>2018-01-02T09:54:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://vaibhavmule.com/projects/</loc>
-  <lastmod>2017-12-11T09:22:55+00:00</lastmod>
+  <lastmod>2018-01-02T09:54:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://vaibhavmule.com/talks/</loc>
-  <lastmod>2017-12-11T09:22:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://vaibhavmule.com/sitemap/</loc>
-  <lastmod>2017-12-11T09:22:55+00:00</lastmod>
+  <lastmod>2018-01-02T09:54:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://vaibhavmule.com/connect/</loc>
-  <lastmod>2017-12-11T09:22:55+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2018-01-02T09:54:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://vaibhavmule.com/sitemap/</loc>
+  <lastmod>2018-01-02T09:54:13+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://vaibhavmule.com/cheatsheet/</loc>
@@ -53,7 +51,7 @@
 </url>
 <url>
   <loc>http://vaibhavmule.com/talks/bangpyper-jan-talks/</loc>
-  <lastmod>2017-12-11T09:22:55+00:00</lastmod>
+  <lastmod>2018-01-02T09:54:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
